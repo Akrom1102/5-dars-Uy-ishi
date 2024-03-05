@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "name": "Bee Keeper",
+      "price": 12.3
+    },
+    {
+      "name": "Hacker",
+      "price": 5
+    },
+    {
+      "name": "Jecki Chan",
+      "price": 2
+    },
+    {
+      "name": "Cartoon",
+      "price": 7
+    }
+  ]
+}
